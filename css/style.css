@@ -332,7 +332,7 @@ div.characters{
           text-decoration-style: double;
 }
 
-@media screen and (min-width: 600px){
+@media screen and (min-width: 1000px){
 
   /* Navbar */
   header{
